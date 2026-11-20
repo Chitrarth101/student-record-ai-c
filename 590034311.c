@@ -1,7 +1,13 @@
 /*
+Name: Chitrarth Kabdwal
+SAP ID: 590034311
+Batch No.: 20
+Project: AI-Assisted Student Record and Result Management System
+*/
+
+#include <stdio.h>
  * AI-Assisted Student Record and Result Management System
  * Course: Programming in C (PRC1001), UPES B.Tech CSE Sem I
- *
  */
 #include <stdio.h>
 #include <stdlib.h>
